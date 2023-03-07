@@ -7,6 +7,7 @@ int main()
   string teammate2 = "Richard";
 
   int i;
+  cout << "Enter how many times you wanna see the  team!";
   cin >> i;
 
   for (int j; j < i; j++)
