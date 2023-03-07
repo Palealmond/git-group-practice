@@ -126,5 +126,6 @@ Working in Git as a team :))
 ⣿⣿⣿⣶⣶⣮⣥⣒⠲⢮⣝⡿⣿⣿⡆⣿⡿⠃⠄⠄⠄⠄⠄⠄⠄⣠⣴⣿⣿⣿
 
 ```
-=======
 
+=======
+![alt text](https://laughingsquid.com/wp-content/uploads/2013/11/20131112-12580801-armadillo1.jpg)
